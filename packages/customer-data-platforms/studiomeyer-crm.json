@@ -12,7 +12,9 @@
     {
       "type": "streamable-http",
       "url": "https://crm.studiomeyer.io/mcp",
-      "auth": {"type": "oauth2"}
+      "auth": {
+        "type": "oauth2"
+      }
     }
   ]
 }

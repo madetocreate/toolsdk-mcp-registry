@@ -12,7 +12,9 @@
     {
       "type": "streamable-http",
       "url": "https://memory.studiomeyer.io/mcp",
-      "auth": {"type": "oauth2"}
+      "auth": {
+        "type": "oauth2"
+      }
     }
   ]
 }
